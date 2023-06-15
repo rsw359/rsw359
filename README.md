@@ -1,6 +1,6 @@
 # Hi there, I’m Roger!
 
-With a background in education and the medical field, I made a transition into software development driven by my passion for creating practical solutions. After spending ten years as an English teacher in Japan and gaining valuable cross-cultural communication skills, I pivoted into software, where I enjoy writing software and working on data projects in Python. While I'm building my knowledge in machine learning and data, my focus remains on developing useful applications for people. I thrive on continuous learning and embrace opportunities to grow my skills in the dynamic tech industry.
+With a background in education and the medical field, I made a transition into software development driven by my passion for creating practical solutions. After spending ten years as an English teacher in Japan and gaining valuable cross-cultural communication skills, I pivoted into software, where I enjoy writing creative apps using a variety of tools, especially Python. While I'm building my knowledge in machine learning and data, my focus remains on developing user-friendly tools. I thrive on continuous learning and embrace opportunities to grow my skills in the dynamic tech industry.
 
 ## Languages
 
@@ -27,6 +27,7 @@ With a background in education and the medical field, I made a transition into s
   - A social media site modeled after Myspace allowing users to search for music using the Itunes API, preview songs, and save them to their profile for later. Users can also add comments or notes to songs saved in their profile.
   - [Front End Repo](https://github.com/the-golden-order/your-space)
   - [Back end Repo](https://github.com/the-golden-order/your-space-server)
+    
 - [Python Data Structures and Algorithms](https://github.com/rsw359/data-structures-and-algorithms/tree/main/python)
 
 ---
