@@ -1,7 +1,6 @@
 # Hi there, I’m Roger!
 
-With a background in education and the medical field, I made a transition into software development driven by my passion for creating practical solutions. After spending ten years as an English teacher in Japan and gaining valuable cross-cultural communication skills, I pivoted into software, where I enjoy writing creative apps using a variety of tools, especially Python. While I'm building my knowledge in machine learning and data, my focus remains on developing user-friendly tools. I thrive on continuous learning and embrace opportunities to grow my skills in the dynamic tech industry.
-
+I'm a former Seattlite living in Osaka, Japan. In 2022, I made a transition into software development driven by my desire to create and my passion for learning new things. I spent ten years as an English teacher in Japan, gaining valuable cross-cultural communication skills. During the Covid pandemic, I attended the Advanced Software Engineering Program in Python at Code Fellows in Seattle,  where I learned how to write creative apps using a variety of tools including JavaScript, NextJs, Tailwind, and Python. I'm continuing to build my knowledge in machine learning and data using Python, and add to my tool kit by learning the AWS suite of tools. 
 ## Languages
 
 |                                         |                                     |                                       |                                      |
