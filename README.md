@@ -10,7 +10,7 @@ With a background in education and the medical field, I made a transition into s
 |                                         |                                     |                                       |                                      |
 
 ## Projects
-
+- Here are some of my favorite projects
 ---
 
 - MinorTron
