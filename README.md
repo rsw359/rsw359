@@ -25,7 +25,7 @@ With a background in education and the medical field, I made a transition into s
   - [Repo](https://github.com/Twitch-Plays/twitch-plays)
 - YourSpace
   - A social media site modeled after Myspace allowing users to search for music using the Itunes API, preview songs, and save them to their profile for later. Users can also add comments or notes to songs saved in their profile.
-  - YourSpace Site: yoorspace.netlify.app
+  - [YourSpace Site] (yoorspace.netlify.app)
   - [Front End Repo](https://github.com/the-golden-order/your-space)
   - [Back end Repo](https://github.com/the-golden-order/your-space-server)
     
