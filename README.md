@@ -9,7 +9,7 @@ I'm a former Seattlite living in Osaka, Japan. In 2022, I made a transition into
 |                                         |                                     |                                       |                                      |
 
 ## Projects
-- Here are some of my favorite projects
+### Here are some of my favorite projects
 ---
 
 - MinorTron
