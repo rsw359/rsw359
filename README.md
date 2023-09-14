@@ -1,7 +1,8 @@
 # Hi there, I’m Roger!
 
-I'm a former Seattelite living in Osaka, Japan. In 2022, I made a transition into software development driven by my desire to create and my passion for learning new things. I spent ten years as an English teacher in Japan, gaining valuable cross-cultural communication skills. During the Covid pandemic, I attended the Advanced Software Engineering Program in Python at Code Fellows in Seattle,  where I learned how to write creative apps using a variety of tools including JavaScript, NextJs, Tailwind, and Python. I'm continuing to build my knowledge in machine learning and data using Python, and add to my tool kit by learning the AWS suite of tools. 
-## Languages
+I'm a former Seattlite living in Osaka, Japan. In 2022, I made a transition into software development driven by my desire to create and my passion for learning new things. I spent ten years as an English teacher in Japan, gaining valuable cross-cultural communication skills. During the Covid pandemic, I attended the Advanced Software Engineering in Python program at Code Fellows in Seattle.  There,  I gained proficiency in crafting innovative applications using an diverse array of technologies including JavaScript, NextJs, Tailwind, and Python. 
+
+My journey in software development continues as I deepen my expertise in machine learning and data analysis with Python. Additionally, I am expanding my skill set by mastering the suite of tools offered by AWS.
 
 |                                         |                                     |                                       |                                      |
 | --------------------------------------- | ----------------------------------- | ------------------------------------- | ------------------------------------ |
@@ -34,7 +35,7 @@ I'm a former Seattelite living in Osaka, Japan. In 2022, I made a transition int
 
 <br>
 
-## Tools
+## Tools and Frameworks
 
 |                                                 |                                                            |                                                    |
 | ----------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------- |
