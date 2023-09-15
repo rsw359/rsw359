@@ -14,10 +14,10 @@ My journey in software development continues as I deepen my expertise in machine
 ---
 
 - MinorTron
-  - A chatbot built using Django and the OpenAI GPT-3 API to allow users to chat with a helpful assistant. The bot can answer questions, tell jokes, help the user find a recipe, and more. Django authentication allows user chats to persist, being stored in a Sqlite database.
+  - A chatbot built using Django and the OpenAI GPT-3 API allowing users to chat with a helpful assistant. The bot can answer questions, tell jokes, help the user find a recipe, and more. Django authentication allows user chats to persist, being stored in a Sqlite database.
   - [Repo](https://github.com/rsw359/djangobot/tree/main/d_chatbot)
 - Iro Iro
-  - A colorizer app built using React and the OpenCV model to allow users to add color to black and white photos uploaded from their PC. The backend is built on FastAPI, with Images being stored in an AWS S3 bucket.
+  - A colorizer app built using React and the OpenCV model allowing users to add color to black and white photos uploaded from their PC. The backend is built on FastAPI, with Images being stored in an AWS S3 bucket.
   - [Front End Repo](https://github.com/rsw359/Iro-Iro)
   - [Backend Repo](https://github.com/rsw359/Iro-Iro-Backend)
 - Twitch Plays
