@@ -6,16 +6,12 @@ My journey in software development continues as I deepen my expertise in machine
 
 |                                         |                                     |                                       |                                      |
 | --------------------------------------- | ----------------------------------- | ------------------------------------- | ------------------------------------ |
-| <img src="assets/js.png" width=70/>     | <img src="assets/next-js.png" width=70/> | <img src="assets/html.png" width=70/> | <img src="assets/css.png" width=70/> |
+| <img src="assets/python.png" width=70/>     | <img src="assets/js.png" width=70/> | <img src="assets/html.png" width=70/> | <img src="assets/css.png" width=70/> |
 |                                         |                                     |                                       |                                      |
 |                                         |                                     |                                       |                                      |
  
 
-|                                         |                                     |                                       |                                      |
-| --------------------------------------- | ----------------------------------- | ------------------------------------- | ------------------------------------ |
-| <img src="assets/python.png" width=70/> | <img src="assets/django.png" width=70/> | <img src="assets/fastapi.png" width=70/> | <img src="assets/jupyter.png" width=70/> |
-|                                         |                                     |                                       |                                      |
-|                                         |                                     |                                       |                                      |
+
 ## Projects
 ### Here are some of my favorite projects
 ---
