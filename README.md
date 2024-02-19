@@ -10,6 +10,12 @@ My journey in software development continues as I deepen my expertise in machine
 |                                         |                                     |                                       |                                      |
 |                                         |                                     |                                       |                                      |
 
+
+|                                         |                                     |                                       |                                      |
+| --------------------------------------- | ----------------------------------- | ------------------------------------- | ------------------------------------ |
+| <img src="assets/python.png" width=70/> | <img src="assets/js.png" width=70/> | <img src="assets/html.png" width=70/> | <img src="assets/css.png" width=70/> |
+|                                         |                                     |                                       |                                      |
+|                                         |                                     |                                       |                                      |
 ## Projects
 ### Here are some of my favorite projects
 ---
